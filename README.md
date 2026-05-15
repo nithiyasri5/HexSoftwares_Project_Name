@@ -1,4 +1,4 @@
-Loan Eligibility Prediction with Approval Probability Scoring
+Task 1 : Loan Eligibility Prediction with Approval Probability Scoring
 
 Project Overview
 This project aims to predict loan approval status using Machine Learning techniques. In addition to binary classification (Approved / Not Approved), the model also generates an Approval Probability Score to support better business decision-making.
@@ -47,3 +47,45 @@ Key Insights
 
 Outcome
 The system successfully predicts loan approval status and provides interpretability through feature importance and probability scoring, making it useful for financial decision support systems.
+
+
+
+Task 2: IMDB Movie Rating Analysis
+
+Project Overview
+This project analyzes the IMDB Top 1000 Movies dataset to uncover insights about movie ratings, certificates, and trends. Data cleaning was performed using Python and visualization was created using Power BI.
+
+Tools & Technologies Used
+Python
+Pandas
+NumPy
+Power BI
+Matplotlib
+
+Key Steps Performed
+• Data cleaning and preprocessing
+• Handling missing values
+• Data type conversion
+• Exporting cleaned dataset
+• Creating interactive Power BI dashboard
+
+Files Included
+Movie Rating Analysis.ipynb
+cleaned_imdb.xls
+IMDB_Movie_Dashboard.pbix
+
+Dashboard Insights
+• Average IMDB Rating
+• Rating distribution
+• Movies by Certificate
+• Top Rated Movies
+
+Project outcomes
+• Successfully cleaned and preprocessed the IMDB Top 1000 dataset
+• Handled missing values and corrected data types
+• Generated meaningful insights from movie ratings and certificates
+• Identified average IMDB rating across all movies
+• Analyzed distribution of movies by certification categories
+• Visualized top rated movies using interactive Power BI dashboard
+• Improved data visualization and dashboard building skills
+• Strengthened understanding of real-world data analysis workflow
