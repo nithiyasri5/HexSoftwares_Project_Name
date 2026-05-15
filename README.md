@@ -49,25 +49,24 @@ Outcome
 The system successfully predicts loan approval status and provides interpretability through feature importance and probability scoring, making it useful for financial decision support systems.
 
 
-
 Task 2: IMDB Movie Rating Analysis
 
 Project Overview
-This project analyzes the IMDB Top 1000 Movies dataset to uncover insights about movie ratings, certificates, and trends. Data cleaning was performed using Python and visualization was created using Power BI.
+This project analyzes the IMDB Top 1000 Movies dataset to uncover insights about movie ratings, certification categories, and rating trends. Data cleaning and preprocessing were performed using Python, and interactive visualizations were developed using Power BI.
 
-Tools & Technologies Used
+Tools and Technologies Used
 Python
 Pandas
 NumPy
-Power BI
 Matplotlib
+Power BI
 
 Key Steps Performed
-• Data cleaning and preprocessing
-• Handling missing values
-• Data type conversion
-• Exporting cleaned dataset
-• Creating interactive Power BI dashboard
+Data cleaning and preprocessing
+Handling missing values
+Data type conversion
+Exporting the cleaned dataset
+Designing and developing an interactive Power BI dashboard
 
 Files Included
 Movie Rating Analysis.ipynb
@@ -75,10 +74,20 @@ cleaned_imdb.xls
 IMDB_Movie_Dashboard.pbix
 
 Dashboard Insights
-• Average IMDB Rating
-• Rating distribution
-• Movies by Certificate
-• Top Rated Movies
+Average IMDB rating
+Rating distribution analysis
+Movies categorized by certification
+Top rated movies
+
+Project Outcomes
+Successfully cleaned and prepared the IMDB Top 1000 dataset for analysis
+Handled missing values and corrected data types
+Generated meaningful insights from movie ratings and certification categories
+Analyzed rating distribution patterns
+Built an interactive Power BI dashboard for visualization
+Enhanced data analysis and dashboard development skills
+Strengthened understanding of real-world data analytics workflow
+
 
 Project outcomes
 • Successfully cleaned and preprocessed the IMDB Top 1000 dataset
